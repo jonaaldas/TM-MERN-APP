@@ -14,7 +14,6 @@ function App() {
 				<Route path="/transactions/add" element={<Form />} />
 				<Route path="/transactions/edit/:id" element={<Form />} />
 				<Route path="/transactions/:id" element={<EachClient />} />
-				<Route path="/transactions/archived" element={<AllArchivedClients />} />
 			</Routes>
 			<Toaster />
 		</TransacionsContainers>
