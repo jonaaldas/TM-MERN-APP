@@ -2,7 +2,9 @@
 # Transaction Management App
 
 [Live Demo](https://delightful-kelpie-18ed40.netlify.app/)
+
 [Check out the code for the frontend](https://github.com/jonaaldas/TM-Frontend)
+
 [YouTube](https://youtu.be/SkS4hNU2koo)
 
 ## Planning Phase / Engineering Process
