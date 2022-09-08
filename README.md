@@ -1,9 +1,5 @@
 
 # Transaction Management App
-<<<<<<< HEAD
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front-end devs so we can actually see our work!).
-=======
->>>>>>> parent of ed33d068 (Update README.md)
 
 [Live Demo](https://delightful-kelpie-18ed40.netlify.app/)
 [Check out the code for the frontend](https://github.com/jonaaldas/TM-Frontend)
